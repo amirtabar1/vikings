@@ -1,0 +1,570 @@
+body{
+  background-color: dimgray;
+  background-image:
+
+}
+/*#BG{*/
+  /*position: absolute;*/
+/*}*/
+#BB {
+width: 100%;
+left:inherit ;
+}
+#yooy{
+  font-size:40px;
+  color:white;
+  top: 130px;
+  font-style: italic;
+  position: absolute;
+}
+
+.koko{
+position:relative;
+}
+
+#BY{
+  font-size:25px;
+  color:white;
+  top: 190px;
+  left: 30PX;
+  font-style: italic;
+  position: absolute;
+}
+
+#axes-img{
+  width: 29%;
+  height: 350px;
+  border-radius: 5%;
+  margin-left:2%;
+ }
+
+#swords-img{
+  width: 30%;
+  border-radius: 5%;
+  margin-left: 2%;
+}
+
+#arrows-img{
+width: 30%;
+border-radius: 5%;
+margin-left: 2%;
+}
+
+#imgs{
+  height: 20px;
+  left: 60px;
+}
+
+#wiki{
+  color: white;
+  font-size: 25px;
+  font-family: fantasy;
+}
+#axess{
+  font-size:45px; ;
+  color: white;
+  margin-top: 23%;
+  font-family: cursive ;
+
+}
+#swordss{
+  font-size:45px; ;
+color: white;
+margin-top: 23%;
+/*margin-left: 45%;*/
+font-family: cursive ;
+
+}
+#arrowss{
+  font-size:45px; ;
+  color: white;
+  margin-top: 23%;
+  /*margin-left: 75%;*/
+  font-family: cursive ;
+}
+.gogo{
+  display: flex;
+  justify-content: space-around;
+  width:100%;
+}
+
+#knifes-img{
+  width: 29%;
+  height: 33rem;
+  border-radius: 5%;
+  margin-left:2%;
+  margin-top: 9%;
+}
+#bows-img{
+  width: %;
+  height: 33rem;
+  border-radius: 5%;
+  margin-left:2%;
+    margin-top: 9%;
+}
+#helm-img{
+  width: 29%;
+  height: 33rem;
+  border-radius: 5%;
+  margin-left:2%;
+    margin-top: 9%;
+}
+#knifee{
+  font-size:45px; ;
+  color: white;
+  font-family: cursive ;
+  margin-top: 1%;
+}
+#boww{
+  font-size: 45px;
+  color: white;
+  font-family: cursive;
+  margin-top: 1%;
+}
+#helmett{
+  font-size: 45px;
+  color:white;
+  font-family: cursive;
+  margin-top: 1%;
+
+}
+.gogogo{
+  display: flex;
+  justify-content: space-around;
+  width:100%;
+}
+
+#spears-img{
+  width: 29%;
+  height: 33rem;
+  border-radius: 5%;
+  margin-left:2%;
+  margin-top: 9%;
+}
+#hammers-img{
+  width: 29%;
+  height: 33rem;
+  border-radius: 5%;
+  margin-left:2%;
+  margin-top: 9%;
+}
+
+#shields-img{
+  width: 29%;
+  height: 33rem;
+  border-radius: 5%;
+  margin-left:2%;
+  margin-top: 9%;
+}
+.gogo2{
+  display: flex;
+  justify-content:space-around;
+  width: 100%
+}
+#spearr{
+  font-size: 45px;
+  color:white;
+  font-family: cursive;
+  margin-top: 1%;
+}
+#hammerr{
+  font-size: 45px;
+  color:white;
+  font-family: cursive;
+  margin-top: 1%;
+}
+#shieldd{
+  font-size: 45px;
+  color:white;
+  font-family: cursive;
+  margin-top: 1%;
+}
+/*-----------------------------------------------------------------------------------------------*/
+                                     /*axeeee*/
+                                     #axe-imgg{
+                                     margin: 0 auto;
+                                     width: 40%;
+                                     border-radius: 2%;
+                                     }
+                                     #axe-p-p{
+                                       color: white;
+                                       font-size: 25px;
+                                       font-family: fantasy;
+                                     }
+
+                                     #viking-p{
+                                       color: white;
+                                       font-size: 60px;
+                                      position: absolute;
+                                      top: 20%;
+                                      margin-left: 10%;
+                                      font-style: italic;
+                                     }
+                                     #axe-p{
+                                       color: white;
+                                       font-size: 60px;
+                                       position: absolute;
+                                       top: 20%;
+                                       margin-left: 80%;
+                                       font-style: italic;
+                                     }
+                                     #man-axe-img{
+                                       width: 35%;
+                                     }
+                                     #axe-p-p2{
+                                       color: white;
+                                       font-size: 40px;
+                                      position: absolute;
+                                      top:80rem;
+                                      margin-left: 40%;
+                                      font-style: italic;
+                                      width: 50%;
+
+                                     }
+/*-----------------------------------------------------------------------------------------------*/
+
+   /*sword*/
+   #viking-p2{
+     color: white;
+     font-size: 60px;
+    position: absolute;
+    top: 10%;
+    margin-left: 76%;
+    font-style: italic;
+   }
+   #sword-p{
+     color: white;
+     font-size: 60px;
+     position: absolute;
+     top: 18%;
+     margin-left: 83%;
+     font-style: italic;
+   }
+   #terminology{
+     color: white;
+     font-size: 40px;
+    position: absolute;
+    top: 2%;
+    margin-left: 7%;
+    font-style: italic;
+   }
+   #terminology-p{
+     width: 30%;
+     position: absolute;
+     color: white;
+     font-size: 30px;
+     top: 10%;
+     margin-left: 2%;
+   }
+   #big-sword-img{
+     border-radius: 2%;
+   margin-left: 35%;
+   /*margin-top: 10%;*/
+   /*height: 69rem;*/
+   }
+   #sword-para{
+     position: absolute;
+     color: white;
+     font-size: 30px;
+     /*top: 10%;*/
+     margin-left: 2%;
+     margin-top: 10%;
+   }
+     #small-sword-img{
+       margin-top: 50%;
+     }
+     /*------------------------------------------------------------------------------------------*/
+
+         /*arrows*/
+         #arrow-img{
+           width: 30rem;
+           margin-left: 30%;
+         }
+         #arrows-p{
+           color: white;
+           position: absolute;
+           font-size: 60px;
+           font-style: italic;
+           margin-left: 67%;
+           top: 10%;
+         }
+         #viking-p3{
+           color: white;
+           font-size: 60px;
+           font-style: italic;
+           top: 10%;
+           margin-left: 14%;
+           position: absolute;
+
+         }
+         #arrows-p2{
+           color:white;
+           position: absolute;
+           width: 50%;
+           font-size: 30px;
+           font-family: cursive;
+           margin-left: 20%;
+         }
+/*-----------------------------------------------------------------------------------------------*/
+#first-knife-img{
+  border-radius: 2%;
+  margin-left: 65%;
+  margin-top:5%;
+}
+#second-knife-img{
+border-radius: 2%;
+margin-left: 65%;
+margin-top: 5%;
+}
+#viking-p4{
+  position: absolute;
+  font-size: 60px;
+  color:white;
+  top: 0%;
+  font-style: italic;
+  margin-left: 2%;
+
+
+}
+#knife-p{
+  position: absolute;
+  font-size: 60px;
+  color: white;
+  top: 8%;
+font-style: italic;
+margin-left: 12%;
+
+}
+#knife-p2{
+  color: white;
+  font-family: cursive;
+  font-size: 30px;
+  width: 58%;
+  position: absolute;
+top: 30%;
+}
+/*-----------------------------------------------------------------------------------------------*/
+/*bow*/
+#bow-first-img{
+  border-radius: 2%;
+
+}
+#bow-second-img{
+  border-radius: 2%;
+/*position: absolute;*/
+top: 65rem;
+/*left: 26rem;*/
+margin-right: 50%;
+margin-top: 2%;
+}
+#viking-p5{
+  color: white;
+  font-style: italic;
+  font-size: 60px;
+  position: absolute;
+  margin-left: 50%;
+top: 2%;
+}
+#bow-p{
+  color: white;
+  position: absolute;
+  font-size: 30px;
+  top: 20%;
+  width: 50%;
+  margin-left: 40%;
+  font-family: cursive;
+}
+#bow-p2{
+  color: white;
+  position: absolute;
+  font-size: 30px;
+  top: 60%;
+  width: 50%;
+  margin-left: 40%;
+  font-family: cursive;
+}
+#bow-p3{
+  color: white;
+  position: absolute;
+  font-size: 30px;
+  top: 110%;
+  width: 50%;
+  margin-left: 40%;
+  font-family: cursive;
+}
+#bow-p4{
+  color: white;
+  position: absolute;
+  font-size: 30px;
+  top: 160%;
+  width: 50%;
+  margin-left: 40%;
+  font-family: cursive;
+}
+/*-----------------------------------------------------------------------------------------------*/
+/*helmet*/
+#helmet-first-img{
+  border-radius: 2%;
+  position: absolute;
+  /*right: 23rem;*/
+  margin-left: 64%;
+}
+#helmet-second-img{
+  border-radius: 2%;
+  position: absolute;
+  /*right: 23rem;*/
+  margin-left: 64%;
+  margin-top: 55%;
+}
+#viking-p6{
+position: absolute;
+font-size: 60px;
+color:white;
+top: 0%;
+font-style: italic;
+margin-left: 10%;
+}
+
+
+#helmet-p{
+position: absolute;
+font-size: 60px;
+color: white;
+top: 8%;
+font-style: italic;
+margin-left: 20%;
+}
+#helmet-P2{
+  color: white;
+  font-size: 40px;
+  font-family: cursive;
+  width: 60%;
+  margin-top: 20%;
+  position: absolute;
+}
+/*-----------------------------------------------------------------------------------------------*/
+/*spear*/
+#spear-first-img{
+  border-radius: 2%;
+  margin-left: 60%;
+  margin-top: 14%;
+}
+#spear-second-img{
+  border-radius: 2%;
+  margin-left: 60%;
+  margin-top: 2%
+}
+#spear-third-img{
+  border-radius:2%;
+  margin-left: 60%;
+  margin-top: 2%;
+}
+#spear-p{
+  font-size: 40px;
+  color: white;
+  width: 50%;
+  position: absolute;
+  top: 20%;
+  margin-left: 1%;
+}
+#viking-p7{
+  color: white;
+  font-size: 60px;
+  position: absolute;
+  font-style: italic;
+  margin-left: 15%;
+}
+/*-----------------------------------------------------------------------------------------------*/
+/*hammer*/
+#hammer-first-img{
+  margin-right: 1%;
+
+}
+#hammer-second-img{
+position: absolute;
+margin-left: -37%;
+margin-top: 75%;
+
+
+}
+#viking-p8{
+  color: white;
+  font-style: italic;
+  font-size: 60px;
+  margin-left:50%;
+  position: absolute;
+  top:1%;
+}
+#hammer-p{
+  color: white;
+  font-size:40px;
+  position: absolute;
+  width: 50%;
+  top: 19%;
+  margin-left: 39%;
+  font-family:cursive;
+}
+#hammer-p2{
+  color: white;
+  font-family:cursive;
+  font-size: 40px;
+  width: 50%;
+  position: absolute;
+  margin-left: 39%;
+  top:110%;
+}
+/*-----------------------------------------------------------------------------------------------*/
+/*shiel*/
+#shield-img{
+border-radius: 2%;
+/*margin-top: 5rem;*/
+position: absolute;
+
+}
+#shield-img2{
+position: absolute;
+border-radius: 2%;
+top: 49.5rem;
+right: 54rem;
+}
+#shield-img3{
+  position: absolute;
+  border-radius: 2%;
+  top: 87rem;
+}
+#shield-img4{
+  position: absolute;
+  border-radius: 2%;
+  top: 124rem;
+}
+#shield-img5{
+  position: absolute;
+  border-radius: 2%;
+  top: 161rem;
+}
+
+#viking-p9{
+position: absolute;
+top:2%;
+margin-left:50%;
+font-size: 60px;
+font-style: italic;
+color:white;
+}
+#Shield-p{
+position: absolute;
+top: 16%;
+margin-left: 65%;
+font-style: italic;
+font-size: 60px;
+color: white;
+
+}
+#shield-p2{
+  width: 55%;
+  color:white;
+  font-size: 40px;
+  margin-left: 40%;
+  position: absolute;
+  margin-top: 20rem;
+  font-family: cursive;
